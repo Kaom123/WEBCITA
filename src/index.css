@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+
+.mask {
+    mask-image: linear-gradient(#31859D 95%, transparent);
+}
+
+.carousel .slide{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+}
+.Buttoon:disabled{
+ background-color: #626262;
+ color: red;
+}
+
+
+.font-mulish {
+  font-family: 'Mulish', serif;
+}
+
+.form-contact{
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.perro{
+min-height: max-content;
+
+}
+
+
